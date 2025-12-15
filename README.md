@@ -3,8 +3,7 @@
 > **A complete self-learning repository for mastering Generative AI** – No videos required!
 
 [![Made for Beginners](https://img.shields.io/badge/Level-Beginner%20Friendly-green)]()
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)]()
-[![License](https://img.shields.io/badge/License-MIT-yellow)]()
+
 
 ---
 
@@ -297,11 +296,6 @@ This is a **living repository** that will grow with:
 
 **Star ⭐ this repo** to stay updated!
 
----
-
-## 📜 License
-
-MIT License - Feel free to use this for learning and teaching!
 
 ---
 
@@ -317,4 +311,4 @@ Built with ❤️ for aspiring GenAI developers worldwide.
 
 ---
 
-_Last Updated: December 2025_
+
