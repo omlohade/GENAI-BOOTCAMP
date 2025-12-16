@@ -4,7 +4,6 @@
 
 [![Made for Beginners](https://img.shields.io/badge/Level-Beginner%20Friendly-green)]()
 
-
 ---
 
 ## 🎯 What Makes This Different?
@@ -53,6 +52,13 @@ Most GenAI courses rush through concepts or rely solely on videos. This bootcamp
     │ 9 practical notebooks
     │
     ↓
+06 - NLP in Deep Learning ⭐ (NEW)
+    │ Why ANN fails for NLP
+    │ RNN architecture & BPTT
+    │ Vanishing gradient problem
+    │ Path to Transformers
+    │
+    ↓
 🚧 More chapters coming soon...
 ```
 
@@ -72,9 +78,15 @@ Most GenAI courses rush through concepts or rely solely on videos. This bootcamp
 **Time**: 8-10 hours  
 **Outcome**: Convert any text to ML-ready features
 
-### Phase 3: Deep Learning (Coming Soon)
+### Phase 3: NLP in Deep Learning (Chapter 06) ⭐
 
-**Goal**: Neural networks and transformers  
+**Goal**: Understand sequential models for NLP  
+**Time**: 6-8 hours  
+**Outcome**: Know why RNNs are needed and their limitations
+
+### Phase 4: Deep Learning Projects (Coming Soon)
+
+**Goal**: Implement neural networks and transformers  
 **Outcome**: Build and fine-tune models
 
 ### Phase 4: GenAI Applications (Coming Soon)
@@ -86,17 +98,18 @@ Most GenAI courses rush through concepts or rely solely on videos. This bootcamp
 
 ## 📖 Chapter Guide
 
-| Chapter | Topic                                             | Status          | What You'll Learn            |
-| ------- | ------------------------------------------------- | --------------- | ---------------------------- |
-| **01**  | [Foundations](01-foundations/README.md)           | ✅ Complete     | AI vs ML vs DL vs GenAI      |
-| **02**  | [Python Basics](02-python-basics/README.md)       | ✅ Complete     | Python essentials for GenAI  |
-| **03**  | [NLP Fundamentals](03-nlp-fundamentals/README.md) | ✅ Complete     | How machines read text       |
-| **04**  | [GenAI Overview](04-genai-overview/README.md)     | ✅ Complete     | LLMs and how they work       |
-| **05**  | [ML for NLP](05-ML-for-NLP/README.md)             | 🌟 **Featured** | Text → Numbers (9 notebooks) |
-| **06**  | Deep Learning for NLP                             | 🚧 Coming Soon  | RNNs, LSTMs, Attention       |
-| **07**  | Transformers & BERT                               | 🚧 Coming Soon  | Modern NLP architecture      |
-| **08**  | Large Language Models                             | 🚧 Coming Soon  | GPT, LLaMA, fine-tuning      |
-| **09**  | GenAI Applications                                | 🚧 Coming Soon  | Build real projects          |
+| Chapter | Topic                                                  | Status         | What You'll Learn            |
+| ------- | ------------------------------------------------------ | -------------- | ---------------------------- |
+| **01**  | [Foundations](01-foundations/README.md)                | ✅ Complete    | AI vs ML vs DL vs GenAI      |
+| **02**  | [Python Basics](02-python-basics/README.md)            | ✅ Complete    | Python essentials for GenAI  |
+| **03**  | [NLP Fundamentals](03-nlp-fundamentals/README.md)      | ✅ Complete    | How machines read text       |
+| **04**  | [GenAI Overview](04-genai-overview/README.md)          | ✅ Complete    | LLMs and how they work       |
+| **05**  | [ML for NLP](05-ML-for-NLP/README.md)                  | ✅ Complete    | Text → Numbers (9 notebooks) |
+| **06**  | [NLP in Deep Learning](06-nlp-deep-learning/README.md) | 🌟 **New**     | RNNs, BPTT, Gradients        |
+| **07**  | ANN Project Implementation                             | 🚧 Coming Soon | Build your first ANN         |
+| **08**  | RNN Project Implementation                             | 🚧 Coming Soon | Sequence modeling hands-on   |
+| **09**  | LSTM Project Implementation                            | 🚧 Coming Soon | Advanced sequence models     |
+| **10**  | Transformers & BERT                                    | 🚧 Coming Soon | Modern NLP architecture      |
 
 ---
 
@@ -150,7 +163,7 @@ genai-bootcamp/
 │   └── README.md
 ├── 04-genai-overview/
 │   └── README.md
-├── 05-ML-for-NLP/          ⭐ FULLY DOCUMENTED
+├── 05-ML-for-NLP/          ⭐ COMPLETE
 │   ├── README.md           # Chapter overview
 │   ├── QUICK-REFERENCE.md  # One-page cheat sheet
 │   ├── LEARNING-GUIDE.md   # Visual roadmap
@@ -158,6 +171,10 @@ genai-bootcamp/
 │   ├── 2-Stemming+And+Its+Types.ipynb
 │   ├── ... (9 notebooks total)
 │   └── spam.csv            # Practice dataset
+├── 06-nlp-deep-learning/   ⭐ NEW
+│   ├── README.md           # Complete theory
+│   ├── QUICK-REFERENCE.md  # Quick revision
+│   └── LEARNING-GUIDE.md   # 6-day study plan
 └── README.md               # You are here!
 ```
 
@@ -296,7 +313,6 @@ This is a **living repository** that will grow with:
 
 **Star ⭐ this repo** to stay updated!
 
-
 ---
 
 ## 🙏 Acknowledgments
@@ -310,5 +326,3 @@ Built with ❤️ for aspiring GenAI developers worldwide.
 👉 [Start with Chapter 01: Foundations](01-foundations/README.md)
 
 ---
-
-
